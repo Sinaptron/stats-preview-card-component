@@ -1,21 +1,17 @@
-# M. E. GALINDO 
+# M. E. GALINDO  [![Generic badge](https://img.shields.io/badge/M.E.-Galindo-<COLOR>.svg)](https://shields.io/)
 
-[![Generic badge](https://img.shields.io/badge/<M.E.>-<Galindo>-<COLOR>.svg)](https://shields.io/)
-
-<p align="center">
+<div align="center">
 
 ![logo_meg](images/icono.png)
-</p>
-
-<hr>
-
-[![Version](https://img.shields.io/badge/Version-2.0-<COLOR>.svg)](https://shields.io/)
+</div>
 
 <hr>
 
 # Nombre del proyecto - Stats Preview Card Component
+[![Version](https://img.shields.io/badge/Version-2.0-<COLOR>.svg)](https://shields.io/)
 
-Stats Preview Card Component, Este proyecto es parte del desafío:
+
+- Stats Preview Card Component, Este proyecto es parte del desafío:
 #100daysofprojects promovido por [Frontend Club](https://www.facebook.com/frontendclubfb).
 
 ![Screenshot](https://cdn.hashnode.com/res/hashnode/image/upload/v1714252841880/2d8cfaab-6f64-4b1c-bdc7-109c7e8cfb84.jpeg?auto=compress,format&format=webp)
