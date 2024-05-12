@@ -81,9 +81,17 @@ El diseño de este proyecto es propiedad de: Frontend Mentor
 
 ## Contacto 📌
 
-Agrega los medios de contacto para que cualquiera pueda encontrarte y hablar sobre tus siguientes grandes proyectos.
+Medios de contacto.
 
-- ☕ [LinkedIn](#) 
-- 🎁 [Facebook](#) 
-- 😊 [GitHub](#)    
-- ❤️ [Correo](#) 
+- ☕  [LinkedIn](#) 
+- 🎁  [Facebook](#) 
+- 😊  [GitHub](#)    
+- ❤️  [Correo](#) 
+
+- Acerca de mi 
+
+#### Actualmente me dedico a:
+
+- Reforzar conocimientos sobre HTML, CSS3, BOOSTRAP, JAVASCRIPT, PHP.
+- Aprender e investigar sobre CIBERSEGUIRDAD.
+- Adquirir conocimientos sobre sistema operativo [LINUX.](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />)
