@@ -94,4 +94,4 @@ Medios de contacto.
 
 - Reforzar conocimientos sobre HTML, CSS3, BOOSTRAP, JAVASCRIPT, PHP.
 - Aprender e investigar sobre CIBERSEGUIRDAD.
-- Adquirir conocimientos sobre sistema operativo [LINUX.](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />)
+- Adquirir conocimientos sobre sistema operativo [LINUX.](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg)
