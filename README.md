@@ -1,4 +1,4 @@
-# M. E. GALINDO   👋   [![Generic badge](https://img.shields.io/badge/M.E.-Galindo-<COLOR>.svg)](https://shields.io/)
+# ✩♬ ₊˚.   M. E. GALINDO   ⋆☾⋆⁺₊✧   👋   [![Generic badge](https://img.shields.io/badge/DEV-WEB-<COLOR>.svg)](https://shields.io/)
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 
 <hr>
 
-# Nombre del proyecto - Stats Preview Card Component     [![Version](https://img.shields.io/badge/Version-2.0-<COLOR>.svg)](https://shields.io/)
+# Nombre del proyecto - Stats Preview Card Component  💪   [![Version](https://img.shields.io/badge/Version-2.0-<COLOR>.svg)](https://shields.io/)
 
 - Stats Preview Card Component, Este proyecto es parte del desafío:
 #100daysofprojects promovido por [Frontend Club](https://www.facebook.com/frontendclubfb).
@@ -31,10 +31,10 @@
 
 ## Realizar 🚀
 
-### Los usuarios deberían poder:
+### Los usuarios deberían poder: 👁️‍🗨️  
 - Ver un diseño óptimo en pantallas grandes(1200px), medianas(768px) y pequeñas(375px).
 
-### Importante: ⚡
+### Importante: 📌
 - Agrega un icono favicon al proyecto.
 - Agrega una URL fácil de recordar (ej. 09-order-summary-component).
 - Agrega un título al proyecto (ej. Stats Preview Card Component - Frontend Club).
@@ -55,11 +55,11 @@ Lista de recursos para ayudarte a completar el reto.
 
 ## Tecnologias 🛠️
 
-✔ HTML Semántico
-✔ Estilos CSS
-✔ Animaciones CSS
-✔ Metodología BEM
-✔ Responsively App
+✔ HTML Semántico <br>
+✔ Estilos CSS <br>
+✔ Animaciones CSS <br>
+✔ Metodología BEM <br>
+✔ Responsively App <br>
 
 ## Subir Proyecto 🔩
 
@@ -76,25 +76,26 @@ Nuestro agradecimiento a las fuentes que hacen posible los recursos y nos inspir
 - [UI Design Daily](https://www.uidesigndaily.com/)
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [Badges](https://github.com/Naereen/badges/blob/master/README.md)
-- [fuente de iconos](https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia)(https://gist.github.com/rxaviers/7360908)(https://gist.github.com/roachhd/1f029bd4b50b8a524f3c)(https://platzi.com/comunidad/listado-completo-de-emojis-en-markdown/)(https://iconduck.com/)
-
-
+- [fuente iconos-1](https://emojidb.org/)
+- [fuente iconos-2](https://gist.github.com/rxaviers/7360908)
+- [fuente iconos-3](https://platzi.com/comunidad/listado-completo-de-emojis-en-markdown/)
+- [fuente iconos-4](https://iconduck.com/)
+- [fuente iconos-5](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c)
 El diseño de este proyecto es propiedad de: Frontend Mentor
 
-## Contacto 📌
+## Contacto 📱  
 
 Medios de contacto. 
 
-- ![l](images/linkedin.svg)☕  [LinkedIn](#) 
-- ![l](images/facebook.svg) ✨  [Facebook](#)  
-- 👍  [GitHub](#)    
-- 📧  [Correo](#) 
+-  🇮🇳    [LinkedIn](#) 
+-  ⓕ    [Facebook](#)  
+-  🐨   [GitHub](#)    
+-  📧   [Correo](#) 
 
-- Acerca de mi 👀
+- Acerca de mi:  👀
 
-#### Actualmente me dedico a: ✨
+#### Actualmente me dedico a: 🖥️📱👩🏿‍💻
 
-- Reforzar conocimientos sobre HTML, CSS3, BOOSTRAP, JAVASCRIPT, PHP.
-- Aprender e investigar sobre CIBERSEGUIRDAD.
+- Reforzar conocimientos sobre HTML, CSS3, BOOSTRAP, JAVASCRIPT, PHP. 🔑
+- Aprender e investigar sobre CIBERSEGUIRDAD. 🛡️
 - Adquirir conocimientos sobre sistema operativo LINUX. 💻
-
