@@ -1,0 +1,142 @@
+/* ----- Fuente ----- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+
+/* ----------------------------- */
+
+p{
+  font-family: 'inter';
+  color: hsla(0, 0%, 100%, 0.75);
+  padding: 10px 0 30px 0;
+  margin-right: 0;
+  text-align: start;
+  font-size: 15px;
+  line-height: 27px;
+}
+
+h3{
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+strong{
+    color: hsl(277, 64%, 61%);;
+}
+
+.contenido{
+    width: 100vw;
+    height: 100vh;
+    background-color: hsl(233, 47%, 7%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 15px;
+    font-family: 'Lexend Deca';
+
+}
+
+.tarjeta {
+    max-width: 900px;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    background-color: hsl(244, 38%, 16%);
+    border-radius: 15px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.tarjeta-2{
+    max-width: 400px;
+    margin: 35px 75px 50px 50px;
+}
+
+.tarjeta-3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 25px;    
+}
+
+.up {
+	text-align: start;
+    font-size: 1.5rem;
+}
+.down {
+	text-align: start;
+    color: hsla(0, 0%, 100%, 0.6);
+}
+
+span{
+    display: block;
+}
+
+.tarjeta_imagen{
+    min-width: 450px;
+    height: 100%;
+    background-color: hsl(277, 64%, 61%);
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    
+}
+.tarjeta_imagen2 {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+    opacity: 0.5;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+/*para pantallas que estan entre 375px y 768px*/
+@media only screen and (min-width: 375px)
+and (max-width: 768px){
+    
+    .contenido {
+        height: auto;
+    }      
+
+    .tarjeta {
+        display: inline-flex;
+        flex-direction: column-reverse;
+        max-width: 80%;
+        height: 90%;
+        margin: 25px 0;
+        border-bottom-left-radius:15px;
+        border-bottom-right-radius: 15px;
+    }
+    .tarjeta_imagen {
+        min-width: 100%;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+    }
+    .tarjeta_imagen2 {
+        background-image: url(images/image-header-mobile.jpg);
+        object-fit: cover;
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+    }
+    .tarjeta-2{
+        text-align: center;
+        padding: 10px 0;
+        margin: 15px;
+    }
+    p{
+        text-align: center;
+    }
+    .tarjeta-3 {
+        display: flex;
+        padding: 0;
+        flex-direction: column;
+    }
+    .stat{
+        text-align: center;
+        margin: 15px 0;
+    }
+    .up {
+        font-size: 1.5rem;
+    }
+    span{
+        margin: 5px;
+    }    
+}
