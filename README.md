@@ -1,4 +1,4 @@
-# M. E. GALINDO  [![Generic badge](https://img.shields.io/badge/M.E.-Galindo-<COLOR>.svg)](https://shields.io/)
+# M. E. GALINDO     [![Generic badge](https://img.shields.io/badge/M.E.-Galindo-<COLOR>.svg)](https://shields.io/)
 
 <div align="center">
 
@@ -7,8 +7,7 @@
 
 <hr>
 
-# Nombre del proyecto - Stats Preview Card Component
-[![Version](https://img.shields.io/badge/Version-2.0-<COLOR>.svg)](https://shields.io/)
+# Nombre del proyecto - Stats Preview Card Component     [![Version](https://img.shields.io/badge/Version-2.0-<COLOR>.svg)](https://shields.io/)
 
 
 - Stats Preview Card Component, Este proyecto es parte del desafío:
