@@ -9,7 +9,7 @@
 
 <hr>
 
-- Version: [![Version](https://img.shields.io/badge/<Ver->-<2.0>-<COLOR>.svg)](https://shields.io/)
+[![Version](https://img.shields.io/badge/<Version>-<2.0>-<COLOR>.svg)](https://shields.io/)
 
 <hr>
 
