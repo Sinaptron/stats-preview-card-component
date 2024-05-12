@@ -88,7 +88,7 @@ El diseño de este proyecto es propiedad de: Frontend Mentor
 
 Agrega los medios de contacto para que cualquiera pueda encontrarte y hablar sobre tus siguientes grandes proyectos.
 
-- [LinkedIn](#) ☕
-- [Facebook](#) 🎁
-- [GitHub](#)    😊
-- [Correo](#)    ❤️
+- ☕ [LinkedIn](#) 
+- 🎁 [Facebook](#) 
+- 😊 [GitHub](#)    
+- ❤️ [Correo](#) 
